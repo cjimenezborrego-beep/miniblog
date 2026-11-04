@@ -6,7 +6,7 @@ twig:
             address: 'Av. Arroyo del Moro, s/n, Noroeste'
             postal_code: '14011'
             phone: '+34 945 000 001'
-            phone_link: '+34957734900'; 
+            phone_link: '+34957734900'
             city: 'Córdoba'
             province: 'Córdoba'
 when@test:
